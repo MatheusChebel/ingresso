@@ -17,6 +17,7 @@
 </table>
 
 ### O intuito do projeto foi criar um site onde podemos comprar ingressos variando as opções de assento e quantidades
+## Primeiro projeto realizado por conta própria sem cópia ou acompanhamento do curso
 
 ## Print da tela com o site funcional
 <img src="./assets/PNG/previaSiteFim.png" alt="print da tela do site funcionando" class="print" />
