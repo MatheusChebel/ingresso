@@ -5,10 +5,10 @@
 <table style="border-collapse: collapse; margin: 0 auto;">
     <tr>
         <td style="border: none; text-align: center;">
-            <img style="height: 50px; width: 50px;" src="./assets/PNG/iconHTML.png" alt="icone html" />
+            <img style="height: 50px; width: 50px;" src="./assets/PNG/IconHTML.png" alt="icone html" />
         </td>
         <td style="border: none; text-align: center;">
-            <img style="height: 50px; width: 50px;" src="./assets/PNG/iconCSS.png" alt="icone css" />
+            <img style="height: 50px; width: 50px;" src="./assets/PNG/IconCSS.png" alt="icone css" />
         </td>
         <td style="border: none; text-align: center;">
             <img style="height: 50px; width: 50px;" src="./assets/PNG/iconJs.png" alt="icone javascript" />
