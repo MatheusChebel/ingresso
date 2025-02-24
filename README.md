@@ -21,4 +21,4 @@
 ## Print da tela com o site funcional
 <img src="./assets/PNG/previaSiteFim.png" alt="print da tela do site funcionando" class="print" />
 
-### O projeto pode ser testado no link
+### O projeto pode ser testado no link: https://ingresso-vert.vercel.app/
